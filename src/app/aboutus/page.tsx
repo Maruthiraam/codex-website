@@ -29,7 +29,7 @@ const aboutus = () => {
             </div>
             <div className={styles.ssmdiv}>
                 <SocialMediaCount count={subscribers} type="Subscribers" image={imagey} />
-                <SocialMediaCount count="600" type="Followers" image={imagei} />
+                <SocialMediaCount count="1,043" type="Followers" image={imagei} />
                 <SocialMediaCount count="550" type="members" image={imaged} />
             </div>
             <div className={styles.aboutus}>
